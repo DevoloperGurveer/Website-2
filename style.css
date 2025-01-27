@@ -1,0 +1,67 @@
+body {
+
+    margin: 0;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.topnav {
+
+    overflow: hidden;
+
+    background-color: #333;
+
+}
+
+.topnav a {
+
+    float: left;
+
+    color: deeppink;
+
+    text-align: center;
+
+    padding: 14px 16px;
+
+    text-decoration: none;
+
+    font-size: 17px;
+
+}
+
+.topnav a:hover {
+
+    background-color: blueviolet;
+
+    color: deepskyblue;
+
+}
+
+.topnav a.active {
+
+    background-color: yellowgreen;
+
+    color: darkcyan;
+
+}
+
+footer{
+    background-color: green;
+    color: aquamarine;
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
